@@ -1,0 +1,11 @@
+C:\Users\arkad\source\repos\Microprocessor Simulator\bin\Debug\Microprocessor Simulator.exe.config
+C:\Users\arkad\source\repos\Microprocessor Simulator\bin\Debug\Microprocessor Simulator.exe
+C:\Users\arkad\source\repos\Microprocessor Simulator\bin\Debug\Microprocessor Simulator.pdb
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.csproj.AssemblyReference.cache
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor_Simulator.Properties.Resources.resources
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.csproj.GenerateResource.cache
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.csproj.CoreCompileInputs.cache
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.exe
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor Simulator.pdb
+C:\Users\arkad\source\repos\Microprocessor Simulator\obj\Debug\Microprocessor_Simulator.Mikroprocesor.resources
